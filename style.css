@@ -1,0 +1,14 @@
+li {
+    border: gold 3px solid;
+    border-radius: 10px;
+    color: white;
+    width: 40%;
+    padding: .5rem 1rem;
+    background-color: black;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+}
